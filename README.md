@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on analyzing stocks with Python.
+- 🔭 I’m currently working on analyzing stocks with Python as well developing my backend skills for web development.
 - 🌱 I’m currently learning about the Scikit Learn Python Package.
 - 👯 I’m looking to collaborate on programming projects related to web development, machine learning, and stocks.
 - 🤔 I’m looking for help with stock analysis.
